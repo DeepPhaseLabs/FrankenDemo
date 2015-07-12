@@ -7,8 +7,7 @@
 *.sln.docstates
 
 # unity
-Library/
-Library/metadata/*
+Library/**
 Temp/*
 *.csproj
 *.sln
