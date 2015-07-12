@@ -6,6 +6,17 @@
 *.user
 *.sln.docstates
 
+# unity
+Library/
+Library/metadata/*
+Temp/*
+*.csproj
+*.sln
+*.pidb
+*.userprefs
+*.unityproj
+
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
