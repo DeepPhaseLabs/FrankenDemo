@@ -46,7 +46,6 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Cardboard\DemoScene\Teleport.cs" />
      <Compile Include="Assets\Cardboard\Legacy\DemoScene\TeleportLegacyUI.cs" />
      <Compile Include="Assets\Cardboard\Legacy\Scripts\CardboardAndroidDevice.cs" />
      <Compile Include="Assets\Cardboard\Legacy\Scripts\CardboardOnGUI.cs" />
@@ -175,6 +174,7 @@
      <Compile Include="Assets\Cardboard\Standard Assets\Utility\TimedObjectDestructor.cs" />
      <Compile Include="Assets\Cardboard\Standard Assets\Utility\WaypointCircuit.cs" />
      <Compile Include="Assets\Cardboard\Standard Assets\Utility\WaypointProgressTracker.cs" />
+     <Compile Include="Assets\FrankenDemo\scripts\Teleport.cs" />
      <None Include="Assets\Cardboard\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Cardboard\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Cardboard\Legacy\Resources\SkyboxMesh.shader" />

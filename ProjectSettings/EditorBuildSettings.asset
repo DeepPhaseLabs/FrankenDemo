@@ -6,4 +6,4 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Cardboard/DemoScene/DemoScene.unity
+    path: Assets/FrankenDemo/Scenes/DemoScene.unity
